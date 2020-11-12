@@ -1,1 +1,1 @@
-# mestrado-ia-pel208-perceptron
+# Exercício da Aula 06 - Perceptron
